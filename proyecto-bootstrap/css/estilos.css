@@ -1,0 +1,18 @@
+:root{
+    /* colores*/
+    --color-rojo: #f03735;
+    --color-amarillo: #ffb724;
+}
+
+/* tipografia titulos */
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Anton', sans-serif;
+}
+/* modificar iconos*/
+.icono{
+    font-size: 50px;
+    color: green;
+}
+.parrafo{
+    color: var(--color-rojo);
+}
